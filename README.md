@@ -1,2 +1,2 @@
 # CSE_299-Project
-Project on
+Project of Group 6

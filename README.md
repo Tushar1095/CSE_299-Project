@@ -1,2 +1,2 @@
 # CSE_299-Project
-Project of Group 6
+Project on Student Portal Management System

@@ -50,19 +50,34 @@ Secure logout functionality ensures that the user session is properly terminated
 Functionality
 
 📌 Project File Structure
+
 /StudentPortal
+
 │── main.cpp
+
 │── loginwindow.h
+
 │── loginwindow.cpp
+
 │── dashboard.h
+
 │── dashboard.cpp
+
 │── cgpa_calculator.h
+
 │── cgpa_calculator.cpp
+
 │── course_management.h
+
+
 │── course_management.cpp
+
 │── payment_parking.h
+
 │── payment_parking.cpp
+
 │── users.csv  (Data Storage)
+
 
 🚀 Getting Started
 Prerequisites

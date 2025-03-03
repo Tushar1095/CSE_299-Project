@@ -90,30 +90,26 @@ CMake (for building the project)
 Installation
 Clone the repository:
 
-bash
-Copy
 git clone https://github.com/tushar1095/cse_299-Project
+
 Navigate to the project directory:
 
-bash
-Copy
 cd student-portal-management-qt
+
 Build the project using CMake:
 
-bash
-Copy
 mkdir build
 cd build
 cmake ..
 make
+
 Run the application:
 
-bash
-Copy
 ./StudentPortalManagement
 
 
 🛠️ Technologies Used
+
 Programming Language: C++
 
 Framework: Qt (for GUI and application logic)

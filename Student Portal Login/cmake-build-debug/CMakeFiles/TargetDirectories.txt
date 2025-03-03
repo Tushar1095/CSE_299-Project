@@ -1,3 +1,0 @@
-E:/cse299/Student Portal Login/cmake-build-debug/CMakeFiles/Student_Portal_Login.dir
-E:/cse299/Student Portal Login/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/cse299/Student Portal Login/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -3,6 +3,7 @@ Student Portal Management System (C++ with Qt)
 Welcome to the Student Portal Management System, a desktop application developed using C++ and the Qt framework. This application provides a secure and efficient way for students to manage their academic and personal information, enroll in courses, calculate CGPA, and handle payments and parking permits.
 
 ✅ Features Implemented
+
 1️⃣ Secure Login & Signup
 Password Hashing: Passwords are securely hashed using cryptographic algorithms before storage.
 

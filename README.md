@@ -76,7 +76,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/yourusername/student-portal-management-qt.git
+git clone https://github.com/tushar1095/cse_299-Project
 Navigate to the project directory:
 
 bash
